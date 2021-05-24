@@ -12,21 +12,16 @@ navbar:
   - text: Projects
   - icon: fa-gear
   - menu:
-    - text: "Linear Regression"
-    - text: "Page A"
+    - text: Linear Regression
+    - text: Page A
       href: page-a.html
-    - text: "Page B"
+    - text: Page B
       href: page-b.html
-    - text: "Page C"
+    - text: Page C
       href: page-c.html
-
-    - text: "Machine Learning"
-    - text: "Page D"
+    - text: Machine Learning
+    - text: Page D
       href: page-d.html
-
-
-
-
   right:
   - icon: fa-github
     text: Source code
@@ -37,4 +32,3 @@ output:
     toc_float: yes
     theme: cosmo
     highlight: textmate
-
